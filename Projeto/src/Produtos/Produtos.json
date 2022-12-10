@@ -1,0 +1,107 @@
+[
+    {
+       "id": "01",
+       "nome": "Funko pop Luke Skywalker",
+       "preco": "169.00",
+       "quantidade": "1",
+       "image": "luke"
+    },
+    {
+        "id": "02",
+        "nome": "Funko pop Mandalorian",
+        "preco": "139.00",
+        "quantidade": "1",
+        "image": "mandalorian"
+     },
+     {
+        "id": "03",
+        "nome": "Funko pop Darth Vader",
+        "preco": "199.00",
+        "quantidade": "1",
+        "image": "darthvader"
+     },
+     {
+        "id": "04",
+        "nome": "Funko pop Leia Organa",
+        "preco": "119.00",
+        "quantidade": "1",
+        "image": "leia"
+     },
+     {
+        "id": "05",
+        "nome": "Funko pop Obi-Wan Kenobi",
+        "preco": "159.00",
+        "quantidade": "1",
+        "image": "obiwan"
+     },
+     {
+        "id": "06",
+        "nome": "Funko pop Chewbacca",
+        "preco": "179.00",
+        "quantidade": "1",
+        "image": "chewbacca"
+     },
+     {
+        "id": "07",
+        "nome": "Funko pop R2-D2",
+        "preco": "179.00",
+        "quantidade": "1",
+        "image": "r2d2"
+     },
+     {
+        "id": "08",
+        "nome": "Funko pop C-3PO",
+        "preco": "179.00",
+        "quantidade": "1",
+        "image": "c3po"
+     },
+     {
+        "id": "09",
+        "nome": "Funko pop Baby Yoda",
+        "preco": "199.00",
+        "quantidade": "1",
+        "image": "babyyoda"
+     },
+     {
+        "id": "10",
+        "nome": "Funko pop Dark Trooper",
+        "preco": "129.00",
+        "quantidade": "1",
+        "image": "darktrooper"
+     },
+     {
+        "id": "11",
+        "nome": "Funko pop Storm Trooper",
+        "preco": "129.00",
+        "quantidade": "1",
+        "image": "stormtrooper"
+     },
+     {
+        "id": "12",
+        "nome": "Funko pop Boba Fett",
+        "preco": "139.00",
+        "quantidade": "1",
+        "image": "bobafett"
+     },
+     {
+        "id": "13",
+        "nome": "Funko pop Kylo Ren",
+        "preco": "149.00",
+        "quantidade": "1",
+        "image": "kyloren"
+     },
+     {
+        "id": "14",
+        "nome": "Funko pop Rey Skywalker",
+        "preco": "159.00",
+        "quantidade": "1",
+        "image": "rey"
+     },
+     {
+        "id": "15",
+        "nome": "Funko pop Darth Sidious",
+        "preco": "139.00",
+        "quantidade": "1",
+        "image": "palpatine"
+     }
+]

@@ -17,6 +17,7 @@ const Carrinho = (props) => {
       produto.quantidade = 1
     }
     setListCart([])
+    alert("Compra finalizada com sucesso")
   }
   useEffect(() => {
     const valorTotal = () => {
